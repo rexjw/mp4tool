@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+# proejct-specific
+*.mp4
+mp4tool
+mp4tool.dSYM
